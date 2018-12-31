@@ -1,0 +1,19 @@
+输出
+
+print ('hello, world')
+
+print('The quick brown fox', 'jumps over', 'the lazy dog')
+
+print(300)
+
+print(100+200)
+
+print('100 + 200 = ', 100 + 200)
+
+输入
+
+name = input('please enther your name:')
+print('hello', name)
+
+# -*- coding: utf-8 -*-
+print('1024 * 768 =', 1024 * 768)
